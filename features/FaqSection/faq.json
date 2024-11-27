@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How do I get started as a contributor?",
+    "answer": "To become a contributor, simply sign up using your Arweave Wallet. Once registered, you can start uploading labeled data to support AI model training. Each time you upload data, you’ll earn tokens as rewards, and you’ll be able to track how your contributions are used."
+  },
+  {
+    "question": "What kind of data can I contribute?",
+    "answer": "We currently accept labeled data in various formats, including text, images, and audio.  The specific requirements for each data type can be found on our data submission guidelines page.  We are continuously expanding the supported formats, so stay tuned for updates!"
+  },
+  {
+    "question": "How are contributions rewarded?",
+    "answer": "Contributors earn tokens for each valid data upload. The amount of tokens earned depends on the type and quality of the data provided. Your token balance and contribution history are accessible through your dashboard."
+  },
+  {
+    "question": "How can developers use this platform?",
+    "answer": "Developers can browse our marketplace of AI models and datasets. They can easily deploy these models into their applications using our provided APIs and SDKs.  We also offer monitoring tools to track model performance."
+  },
+  {
+    "question": "What is Arweave and why is it used?",
+    "answer": "Arweave is a permanent data storage protocol. By leveraging Arweave, we ensure that contributed datasets and trained models are permanently available and accessible to the community. This fosters transparency and trust in the AI development process."
+  }
+]
